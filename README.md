@@ -16,17 +16,19 @@ Please write code that implements various functions, following the requirements 
 
 - Define a function `maxOfThree` that takes three numbers as arguments and returns the largest of them.
 
-- Write a function `isCharacterAVowel` that takes a character (i.e. a string of length 1) and returns true if it is a vowel, false otherwise.
-
-- Write a function that return the number of arguments passed to the function when called.
+- Write a function that returns the number of arguments passed to the function when called.
 
 - Define a function `reverseString` that computes the reversal of a string. For example, reverseString("jag testar") should return the string "ratset gaj".
+
+- Write a function `awesomeFactorial` that takes a number and returns it's factorial.
 
 **Bonus**
 
 - Write a function `findLongestWord` that takes an array of words and returns the length of the longest one.
 
-- Write a function `filterLongWords` that takes an array of words and a number `i` and returns the array of words that are longer than i characters long.
+- Write a function `filterLongWords` that takes an array of words and a number `i` and returns the array of words that are longer than i characters long. 
+
+- Rewrite the function `awesomeFactorial` so that it no longer uses `for` or `while` loops (Hint: the function takes two variables now instead of one). This is a classic job interview question.
 
 - Create a class, Car, that has the following member variables: mTopSpeed and mNumberOfDoors. In that class, write a constructor method that assigns random values to the member variables. Also, write a method that prints out the line "Your car has the top speed of ___ mph, and for some reason has ____ doors."
 
