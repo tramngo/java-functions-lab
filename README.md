@@ -20,7 +20,7 @@ Please write code that implements various functions, following the requirements 
 
 - Define a function `reverseString` that computes the reversal of a string. For example, reverseString("jag testar") should return the string "ratset gaj".
 
-- Write a function `awesomeFactorial` that takes a number and returns it's factorial.
+- Write a function `awesomeFactorial` that takes a number and returns it's factorial (The number multiplied by all numbers less than the number). 
 
 **Bonus**
 
