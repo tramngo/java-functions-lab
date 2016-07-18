@@ -22,6 +22,9 @@ Please write code that implements various functions, following the requirements 
 
 - Write a function `awesomeFactorial` that takes a number and returns it's factorial (The number multiplied by all numbers less than the number). 
 
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
 **Bonus**
 
 - Write a function `findLongestWord` that takes an array of words and returns the length of the longest one.
